@@ -43,7 +43,7 @@ module.exports = {
 
     // When the bot is first started, this code will be ran.
     init: function() {
-        console.log("Loaded send message");
+        console.log("The Create Creater is reday hope you have fun");
     },
 
     // Place your mod here.
